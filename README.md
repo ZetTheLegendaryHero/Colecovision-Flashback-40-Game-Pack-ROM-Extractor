@@ -1,4 +1,4 @@
-# Colecovision-Flashback-40-Game-Pack-ROM-extractor
+# Colecovision Flashback 40 Game Pack ROM Extractor
 A rom extractor for the Colecovision Flashback 40 Game Pack.
 
 # Usage
